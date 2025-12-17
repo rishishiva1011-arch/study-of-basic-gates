@@ -81,5 +81,6 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 <img width="959" height="563" alt="EX 1 WAVE" src="https://github.com/user-attachments/assets/6f56b9bd-d2ad-4515-a1a2-652fe14debb6" />
 
 **Result:**
+
 Studied and verified the truth table and logic gates in Quartus II using Verilog Programming
 
