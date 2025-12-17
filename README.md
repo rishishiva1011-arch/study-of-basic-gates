@@ -80,6 +80,7 @@ module logicgates1(a, b, c);
  endmodule
 
  Developed by:Rishikesh S
+ 
  RegisterNumber: 25005617
  
 **Logic symbol & Truthtable**
